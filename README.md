@@ -9,10 +9,10 @@
 
 Documentação Funcional
 1. Tutorial
-Guia how-to (How-to guide)
-Troubleshooting
-Documentação de API
-Release Notes
-Guia de Início Rápido (Quick Start Guide)
-Perguntas frequentes (FAQ)
+1. Guia how-to (How-to guide)
+1. Troubleshooting
+1. Documentação de API
+1. Release Notes
+1. Guia de Início Rápido (Quick Start Guide)
+1. Perguntas frequentes (FAQ)
 
