@@ -7,8 +7,8 @@
 <h2>Tipos de documentação</h2>
 <p>O curso irá abordar 6 formatos de documentação técnica:</p>
 
-Documentação Funcional
-(Tutorial(https://github.com/marimoreiratw/projeto-alura/blob/main/documenta%C3%A7%C3%A3o-funcional.md))
+1. [Documentação Funcional] (https://github.com/marimoreiratw/projeto-alura/blob/main/documenta%C3%A7%C3%A3o-funcional.md)
+1. Tutorial 
 1. Guia how-to (How-to guide)
 1. Troubleshooting
 1. Documentação de API
