@@ -11,6 +11,7 @@ Use as APIs da Bytebank para se integrar ao checkout da sua loja e processe paga
 <li>Registre-se no Portal de Desenvolvedores da Bytebank para ser autorizado a executar as APIs do banco.</li>
 <li>Sempre configure Token de Acesso no header de Autorização de todas as suas chamadas, tal como o exemplo:</li>
 
+
 ```
 curl -H ‘Authorization: Bearer <ENV_ACCESS_TOKEN>’  \
 https://api.mercadopago.com/V1/payments
